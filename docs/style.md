@@ -1,5 +1,6 @@
 ---
 title: Style Guide for C-Style Languages
+layout: default
 ---
 
 C-Style languages include Java, JavaScript, C, C++, Rust, etc.

@@ -1,5 +1,6 @@
 ---
 title: Acronyms & Abbreviations
+layout: default
 ---
 
 - **a11y**: accessibility
