@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="RwcPlaceholderLogo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="4.2179991"
+     inkscape:cx="-35.087727"
+     inkscape:cy="-7.5865356"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid132"
+       empspacing="8" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       aria-label="RWC"
+       transform="matrix(0.96490191,0,0,1.0805763,1.4654171,2.576847)"
+       id="text234"
+       style="font-size:5.46728px;font-family:rubik;-inkscape-font-specification:rubik;text-align:center;text-anchor:middle;fill-opacity:0.921182;stroke-width:3.07533">
+      <path
+         d="m 2.3274118,9.871233 v -3.91359 h 2.0155256 q 0.5606097,0 0.856932,0.096105 0.2963223,0.096105 0.4778531,0.3577224 0.1815308,0.2589483 0.1815308,0.6326882 0,0.3256875 -0.1388177,0.5632793 Q 5.581618,7.8423596 5.3386871,7.9891859 5.183852,8.0826209 4.9142254,8.144021 5.1304606,8.2160994 5.2292347,8.2881778 5.295974,8.3362301 5.4214438,8.4937347 5.5495831,8.6512394 5.5922963,8.7366656 L 6.1769322,9.871233 h -1.36682 L 4.1640762,8.6752655 Q 4.0412759,8.4430129 3.9451714,8.3736041 3.8143625,8.2828387 3.6488491,8.2828387 H 3.5420663 V 9.871233 Z M 3.5420663,7.5433677 h 0.5098879 q 0.082757,0 0.3203485,-0.053391 0.1201306,-0.024026 0.1948786,-0.1228002 0.077418,-0.098774 0.077418,-0.2269135 0,-0.1895395 -0.1201306,-0.2909832 Q 4.4043375,6.7478358 4.0733108,6.7478358 H 3.5420663 Z"
+         style="font-weight:900;font-family:Arial;-inkscape-font-specification:'Arial Heavy'"
+         id="path2043" />
+      <path
+         d="M 6.1609148,5.957643 H 7.30883 L 7.7226134,8.144021 8.3259363,5.957643 h 1.1452456 l 0.6059921,2.186378 0.413784,-2.186378 h 1.142576 l -0.862271,3.91359 H 9.5859734 L 8.8998939,7.4072196 8.2164839,9.871233 H 7.0311947 Z"
+         style="font-weight:900;font-family:Arial;-inkscape-font-specification:'Arial Heavy'"
+         id="path2045" />
+      <path
+         d="m 14.543366,8.2721604 1.059819,0.3203484 q -0.106783,0.4458183 -0.336366,0.7448101 -0.229583,0.2989919 -0.571288,0.4511574 -0.339035,0.1521655 -0.864941,0.1521655 -0.638027,0 -1.043802,-0.1842003 -0.403105,-0.18687 -0.696758,-0.6540448 -0.293652,-0.4671747 -0.293652,-1.1959674 0,-0.9717236 0.515227,-1.4922898 0.517896,-0.5232358 1.462924,-0.5232358 0.739471,0 1.161263,0.2989919 0.424462,0.2989919 0.630019,0.9183322 L 14.497983,7.3458195 Q 14.441922,7.1669583 14.380522,7.0842016 14.279078,6.945384 14.132252,6.870636 13.985425,6.795888 13.803895,6.795888 q -0.411114,0 -0.630019,0.3310267 -0.165513,0.2456005 -0.165513,0.7715059 0,0.6513751 0.197548,0.894306 0.197548,0.2402613 0.55527,0.2402613 0.347045,0 0.523236,-0.1948786 0.178861,-0.1948786 0.258949,-0.5659489 z"
+         style="font-weight:900;font-family:Arial;-inkscape-font-specification:'Arial Heavy'"
+         id="path2047" />
+    </g>
+    <path
+       style="color:#000000;fill:#00084e;-inkscape-stroke:none"
+       d="M 0.52929687,0.52929687 V 1.0585937 16.404297 H 16.404297 V 0.52929687 Z M 1.5878906,1.5878906 H 15.345703 l 1.3e-4,5.5558593 h 1.058333 V 14.2875 h -1.058333 l -1.3e-4,1.058203 H 1.5878906 Z"
+       id="rect2102"
+       sodipodi:nodetypes="ccccccccccccccc" />
+  </g>
+</svg>
